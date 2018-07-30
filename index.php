@@ -1,3 +1,3 @@
 <?php
-  echo "thankscc";
+  echo "tester";
 ?>
